@@ -1,0 +1,15 @@
+.pictures-container {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 400px;
+  margin-bottom: 60px;
+}
+
+@media only screen and (min-width: 1000px) {
+  img {
+    max-width: 800px;
+  }
+}

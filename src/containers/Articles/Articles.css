@@ -1,0 +1,14 @@
+.article {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.article__title {
+}
+.article__body {
+}
+.article__img {
+  width: 600px;
+}
